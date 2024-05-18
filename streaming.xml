@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <streaming>
         <service>
-            <name>CYN</name>
+            <name>My Server</name>
             <servers>
                 <server>
                     <name>Default</name>
-                    <url>rtmp://27.131.131.25:1935/cyn1</url>
+                    <url>rtmp://xxx.xxx.xxx.xxx:1935/live</url>
                 </server>
             </servers>
             <key>myStream</key>
