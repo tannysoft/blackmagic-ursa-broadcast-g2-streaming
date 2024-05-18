@@ -6,9 +6,9 @@
                 <server>
                     <name>Default</name>
                     <url>rtmp://27.131.131.25:1935/manoon</url>
-                    <key>myStream</key>
                 </server>
             </servers>
+            <key>myStream1</key>
             <profiles>
                 <profile>
                     <name>Streaming High</name>
