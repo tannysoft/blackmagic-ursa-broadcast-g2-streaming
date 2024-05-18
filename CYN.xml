@@ -5,10 +5,10 @@
             <servers>
                 <server>
                     <name>Default</name>
-                    <url>rtmp://27.131.131.25:1935/manoon</url>
+                    <url>rtmp://27.131.131.25:1935/cyn1</url>
                 </server>
             </servers>
-            <key>myStream1</key>
+            <key>myStream</key>
             <profiles>
                 <profile>
                     <name>Streaming High</name>
